@@ -22,7 +22,7 @@ I am currently focusing on **Python Full Stack Development** and actively explor
 💡 A quick learner, adaptable, team player, and eager to adopt new technologies to create efficient and future-ready solutions 🚀.
 
 🌍 Based in Mumbai, India
-🎓 B.Sc. Computer Science (CGPA 8.75) GRAD, MGM College
+🎓 B.Sc. Computer Science (CGPA 8.75), MGM College
 
 ---
 
