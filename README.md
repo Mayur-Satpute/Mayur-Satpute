@@ -1,77 +1,97 @@
-# 👋 Welcome to My GitHub Profile!
+👋 Welcome to My GitHub Profile!
 
-Hi, I'm **Mayur Satpute** 👨‍💻
-Aspiring Python Developer 
+Hi, I'm Mayur Satpute 👨‍💻
+Generative AI Systems Architect | Python Full Stack Developer (Aspiring)
 
----
+🌟 About Me
+A recent B.Sc. Computer Science graduate (CGPA 8.75) with a robust foundation in Python 🐍 and SQL 💾. I specialize in building data-driven applications and am actively focused on mastering Python Full Stack development and integrating Generative AI capabilities.
 
-## 🌟 About Me
+I am a quick, adaptable learner, driven by a passion for continuous improvement and creating efficient, future-ready solutions 🚀.
 
-A recent B.Sc. Computer Science graduate (CGPA 8.75) specializing in **Python** 🐍 and **SQL** 💾, with a strong foundation in **OOP** and relational database design. I'm passionate about building interactive, data-driven applications.
+Key Achievements & Focus:
 
-I am currently focusing on **Python Full Stack Development** and actively exploring **Generative AI** technologies.
+Focus Area
 
-### Key Achievements & Focus:
+Achievement
 
-| Focus Area | Achievement |
-| :--- | :--- |
-| **AI Integration** | Developed a web tool using the **Google Gemini Pro API** for AI-powered document querying. |
-| **Data Analysis** | Built analytical SQL queries using **joins, subqueries, and window functions** for sales insights. |
-| **Web Tools** | Utilized **Streamlit** to deliver clean, interactive user interfaces. |
+Generative AI
 
-💡 A quick learner, adaptable team player, and eager to adopt new technologies to create efficient and future-ready solutions 🚀.
+Developed a web tool using the Google Gemini Pro API for context-aware document querying.
+
+Data Performance
+
+Implemented FAISS vector indexing to achieve low-latency, high-speed document retrieval.
+
+Database Design
+
+Built analytical SQL queries using joins, subqueries, and window functions for complex sales insights.
+
+Web Tools
+
+Utilized Python/Streamlit to deliver clean, highly interactive user interfaces.
 
 🌍 Based in Mumbai, India
 🎓 B.Sc. Computer Science (CGPA 8.75), MGM College Navi Mumbai
 
----
+🛠 Core Skills
+Category
 
-## 🛠️ Core Skills
+Skills
 
-| Category | Skills |
-| :--- | :--- |
-| **Programming** | Python, SQL |
-| **Frontend** |  HTML, CSS, JavaScript |
-| **Concepts** | Object-Oriented Programming (OOPs), Relational Database Design |
-| **AI Exposure** | Google Generative AI, **Gemini Pro API**, OpenAI (ChatGPT, GPT API) |
-| **Frameworks & Tools**| Streamlit, VS Code |
-| **Learning & Certs** | Python Full Stack Development (Learning), HTML/CSS/JS/React (Certified) |
+Programming
 
----
+Python, SQL, Bash (Fundamentals)
 
-## 💡 Featured Projects
+AI/Data
 
-### 1. Chat with Multiple PDFs using Gemini AI
+Google Generative AI (Gemini Pro API), FAISS, OpenAI (ChatGPT, GPT API)
 
-* Developed a web tool using **Python** and **Streamlit** for uploading and querying multiple PDFs.
-* Integrated **Google Gemini Pro API** for AI-powered answers and FAISS for fast document search.
+Web/Tools
 
-### 2. Online Bookstore Database Management System (SQL)
+Streamlit, HTML, CSS, JavaScript, VS Code
 
-* Developed a **normalized SQL database** to manage books, customers, and orders.
-* Created analytical queries using **joins, subqueries, and window functions** for sales insights.
+Concepts
 
-### 3. Food Ordering and Billing System (Python)
+Object-Oriented Programming (OOP), Relational Database Design
 
-* Developed a console-based system in Python using **OOP** and basic fundamentals.
-* Features included user login, menu-driven ordering, bill generation, and an admin dashboard.
+Cloud Exposure
 
----
+AWS, GCP (Hands-on workshop experience)
 
-## 🎓 Learning & Community
+💡 Featured Projects
+1. Chat with Multiple PDFs using Gemini AI
+Developed a cutting-edge Retrieval-Augmented Generation (RAG) web tool using Python and Streamlit.
 
-I believe in continuous learning and actively participate in tech events and workshops:
+Integrated Google Gemini Pro API for context-aware answers and deployed FAISS for fast document vector search.
 
-* **Cloud & AI Events:** Participated in **AWS Summit Mumbai 2025** and **Google Cloud Community Day 2024**.
-* **Workshops:** Participated in sessions on deploying generative AI models with AWS experts and building **RAG-based chatbots**.
-* **Extracurriculars:** Active in tech meetups for networking and trend exploration, and led student tech events.
+2. Online Bookstore Database Management System (SQL)
+Engineered a fully normalized SQL database system to manage complex transactional data (books, customers, orders).
 
----
+Created advanced analytical queries using joins, subqueries, and window functions to extract actionable sales metrics.
 
-## 🔗 Find Me On
+3. Food Ordering and Billing System (Python)
+Developed a console-based system applying strong Object-Oriented Programming (OOP) principles.
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/mayur7pute](https://www.linkedin.com/in/mayur7pute) |
-| **Email** | [mayursatpute246@gmail.com](mailto:mayursatpute246@gmail.com) |
-```
+Features included secure authenticated access and dynamic bill generation based on Python fundamentals.
+
+🎓 Learning & Community (The Growth Mindset)
+I believe in continuous learning and actively immerse myself in the latest industry trends:
+
+Cloud & AI Events: Participated in AWS Summit Mumbai 2025 and Google Cloud Community Day 2024, gaining hands-on exposure to scalable cloud architectures.
+
+Advanced Workshops: Gained insights into AI DevOps, CI/CD with GCP, and intelligent Kubernetes with Gemini AI (GDG Cloud Mumbai).
+
+Certifications: Currently pursuing further certifications in Python Full Stack Development and Cloud technologies.
+
+🔗 Find Me On
+Platform
+
+Link
+
+LinkedIn
+
+linkedin.com/in/mayur7pute
+
+Email
+
+mayursatpute246@gmail.com
