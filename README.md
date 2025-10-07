@@ -2,7 +2,7 @@
 
 # Hi, I'm Mayur Satpute 👨‍💻
 
-### **Generative AI Systems Architect | Python Full Stack Developer (Aspiring)**
+### **Aspiring Python Full Stack Developer**
 
 ## 🌟 About Me
 
