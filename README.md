@@ -68,5 +68,5 @@ I believe in continuous learning and actively immerse myself in the latest indus
 
 | Platform | Link | 
 | ----- | ----- | 
-| **LinkedIn** | `linkedin.com/in/mayur7pute` | 
-| **Email** | `mayursatpute246@gmail.com` |
+| **LinkedIn** | https://www.linkedin.com/in/mayur7pute/ | 
+| **Email** | mayursatpute246@gmail.com |
