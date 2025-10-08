@@ -62,7 +62,7 @@ I believe in continuous learning and actively immerse myself in the latest indus
 
 * **Advanced Workshops:** Gained insights into **AI DevOps, CI/CD with GCP,** and intelligent **Kubernetes with Gemini AI** (GDG Cloud Mumbai).
 
-* **Certifications:** Currently pursuing further certifications in **Python Full Stack Development** and **Cloud** technologies.
+* **Certifications:** Currently pursuing further certifications in **Python Full Stack Development** and **SQL** .
 
 ## 🔗 Find Me On
 
