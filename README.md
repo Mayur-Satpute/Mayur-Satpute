@@ -11,7 +11,8 @@
 
 <!-- 🔥 Custom Banner (Optional — replace link with your own) -->
 <p align="center">
-  <img src="https://i.imgur.com/dZJ7hG0.png" width="90%" alt="banner"/>
+  <img src="<img width="1536" height="1024" alt="GithubBanner" src="https://github.com/user-attachments/assets/52092016-85e6-43a9-bc59-08ecfcf97aca" />
+" width="90%" alt="banner"/>
 </p>
 
 ---
