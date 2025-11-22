@@ -9,10 +9,9 @@
 
 ---
 
-<!-- 🔥 Custom Banner (Optional — replace link with your own) -->
+<!-- 🔥 Custom Banner -->
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="GithubBanner" src="https://github.com/user-attachments/assets/52092016-85e6-43a9-bc59-08ecfcf97aca" />
-" width="90%" alt="banner"/>
+  <img src="https://github.com/user-attachments/assets/52092016-85e6-43a9-bc59-08ecfcf97aca" width="90%" alt="Mayur Satpute Banner"/>
 </p>
 
 ---
@@ -62,7 +61,7 @@ Always learning, always improving, always shipping 🚀.
 
 ## 🐍 Contribution Snake Animation  
 <p align="center">
-  <img src="https://github.com/Mayur-Satpute/Mayur-Satpute/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Mayur-Satpute/Mayur-Satpute/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
