@@ -1,73 +1,97 @@
-👋 Welcome to My GitHub Profile!
+<h1 align="center">Hey, I'm <strong>Mayur Satpute</strong> 👋</h1>
+<h3 align="center">Aspiring Python Full Stack Developer | AI & SQL Enthusiast | Cloud Explorer</h3>
 
-# Hi, I'm Mayur Satpute 👨‍💻
+---
 
-### **Aspiring Python Full Stack Developer**
+<!-- 🌟 OPTIONAL: Add a banner image here -->
+<!-- <p align="center"><img src="your_banner_image_here" width="100%" /></p> -->
 
-## 🌟 About Me
+---
 
-A recent **B.Sc. Computer Science graduate** (CGPA 8.75) with a robust foundation in **Python** 🐍 and **SQL** 💾. I specialize in building data-driven applications and am actively focused on mastering **Python Full Stack** development and integrating **Generative AI** capabilities.
+## 🚀 About Me  
 
-I am a quick, adaptable team player, driven by a passion for continuous improvement and creating efficient, future-ready solutions 🚀.
+I’m a passionate developer from **Mumbai, India**, focused on building **Python-based full-stack solutions**, **AI-enhanced tools**, and **high-quality SQL systems**.  
+I thrive on solving problems, experimenting with new technologies, and turning ideas into clean, scalable products.
 
-|  |  | 
-| ----- | ----- | 
-| 🌍 **Based in** | Mumbai, India | 
-| 🎓 **Education** | B.Sc. Computer Science (CGPA 8.75), MGM College Navi Mumbai | 
+🎓 **B.Sc. Computer Science (CGPA 8.75)**  
+🔥 Currently mastering: **Python Full Stack Development + Generative AI + Cloud**  
+⚡ I love building: AI tools, database systems, streamlit apps, Django apps, and automation scripts.  
 
-### Proven Impact & Key Focus Areas
+---
 
-| Focus Area | Achievement | 
-| ----- | ----- | 
-| **Generative AI** | Developed a web tool using the **Google Gemini Pro API** for context-aware document querying. | 
-| **Data Performance** | Implemented **FAISS vector indexing** to achieve **low-latency, high-speed** document retrieval. | 
-| **Database Design** | Built analytical **SQL** queries using `joins`, `subqueries`, and `window functions` for complex sales insights. | 
-| **Web Tools** | Utilized **Python/Streamlit** to deliver clean, highly interactive user interfaces. | 
+## 🧠 Tech Stack & Tools  
 
-## 🛠 Core Skills
+### **💻 Programming & Core**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
 
-| Category | Skills | 
-| ----- | ----- | 
-| **Programming** | Python, SQL, Bash (Fundamentals) | 
-| **AI / Data** | **Google Generative AI (Gemini Pro API), FAISS**, OpenAI (ChatGPT, GPT API) | 
-| **Web / Tools** | Streamlit, HTML, CSS, JavaScript, VS Code | 
-| **Concepts** | Object-Oriented Programming (OOP), Relational Database Design | 
-| **Cloud Exposure** | AWS, GCP (Hands-on workshop experience) | 
+### **🤖 AI & Data**
+<p>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
-## 💡 Featured Projects
+### **🌐 Web / Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### 1. Chat with Multiple PDFs using Gemini AI
+### **☁ Cloud Exposure**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
-* Developed a cutting-edge **Retrieval-Augmented Generation (RAG)** web tool using **Python** and **Streamlit**.
+---
 
-* Integrated **Google Gemini Pro API** for context-aware answers and deployed **FAISS** for fast document vector search.
+## 🌟 Featured Projects  
 
-### 2. Online Bookstore Database Management System (SQL)
+### 🔹 **1. Chat with Multiple PDFs using Gemini AI**
+A modern **RAG system** built with Streamlit + Gemini Pro API + FAISS for blazing-fast multi-PDF question answering.
 
-* Engineered a fully **normalized SQL database system** to manage complex transactional data (books, customers, orders).
+### 🔹 **2. Online Bookstore Database Management System (SQL)**
+Fully normalized SQL database with analytical queries for sales insights and transactional workflows.
 
-* Created **advanced analytical queries** using joins, subqueries, and window functions to extract actionable sales metrics.
+### 🔹 **3. Food Ordering & Billing System (Python – OOP)**
+Console-based restaurant system with authentication, menu handling & dynamic billing.
 
-### 3. Food Ordering and Billing System (Python)
+### 🔹 **4. Fake News Generator (Python)**
+A fun mini-project that generates chaotic, hilarious “breaking news” headlines.
 
-* Developed a console-based system applying strong **Object-Oriented Programming (OOP)** principles.
+---
 
-* Features included secure authenticated access and dynamic bill generation based on Python fundamentals.
+## 📊 GitHub Stats  
 
-## 🎓 Learning & Community (The Growth Mindset)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-Satpute&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Satpute&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-I believe in continuous learning and actively immerse myself in the latest industry trends:
+---
 
-* **Cloud & AI Events:** Participated in **AWS Summit Mumbai 2025** and **Google Cloud Community Day 2024**, gaining hands-on exposure to scalable cloud architectures.
+## 🌍 Connect With Me  
 
-* **Advanced Workshops:** Gained insights into **AI DevOps, CI/CD with GCP,** and intelligent **Kubernetes with Gemini AI** (GDG Cloud Mumbai).
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayur7pute/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mayursatpute246@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linktr.ee/CodeWithMayurr">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+</p>
 
-* **Certifications:** Currently pursuing further certifications in **Python Full Stack Development** and **SQL** .
+---
 
-## 🔗 Find Me On
+### ⭐ If you like my work, consider giving a star to my repositories!
 
-| Platform | Link | 
-| ----- | ----- | 
-| **Website** | https://linktr.ee/CodeWithMayurr |
-| **LinkedIn** | https://www.linkedin.com/in/mayur7pute/ | 
-| **Email** | mayursatpute246@gmail.com |
