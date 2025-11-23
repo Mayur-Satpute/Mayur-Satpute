@@ -50,10 +50,14 @@ Quick learner, consistent builder, and always exploring the next big tech. 🚀
 ---
 
 ## 🚀 Featured Projects  
-- 🧠 **Chat with Multiple PDFs (Gemini + FAISS)**  
-- 🛒 **Online Bookstore SQL DBMS**  
-- 🍽 **Python OOP Food Ordering & Billing System**  
-- 📰 **Fake News Generator**  
+- 🎓 **Django Student Feedback System** — A Django web application with CRUD operations, authentication, and student feedback logic.
+- 🧠 **Chat with Multiple PDFs (Gemini + FAISS)** — A Streamlit web app to upload multiple PDFs and ask context-aware questions using Google Gemini, LangChain & FAISS.
+- 🍽 **Food Ordering & Billing System (Python – OOP)** — Console-based application with authentication, menu handling, and automated billing.  
+- 🛒 **Online Bookstore SQL DBMS** — A fully normalized SQL database system with advanced queries, joins, and reporting for a bookstore workflow.   
+- 📰 **Fake News Generator** — A fun, lightweight Python project generating random hilarious breaking-news headlines.  
+- 🔍 **YouTube Video Transcript Summarizer** — Python tool that fetches YouTube video transcripts and generates concise summaries.  
+
+> Explore even more on my GitHub: [https://github.com/Mayur-Satpute/Mayur-Satpute](https://github.com/Mayur-Satpute/Mayur-Satpute)
 
 ---
 
