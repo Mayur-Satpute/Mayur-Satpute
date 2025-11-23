@@ -19,7 +19,7 @@ Quick learner, consistent builder, and always exploring the next big tech. 🚀
 
 ---
 
-## 🧠 Tech Stack (Aligned with Resume)
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgres,html,css,js,django,streamlit,vscode,git,github" />
