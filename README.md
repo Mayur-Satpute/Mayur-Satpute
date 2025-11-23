@@ -56,16 +56,18 @@ Quick learner, consistent builder, and always exploring the next big tech. 🚀
 
 ---
 
-## 🧩 3D Contribution Graph  
+## 🧩 3D Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayur-Satpute/Mayur-Satpute/output/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation  
+## 🐍 Contribution Snake Animation
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayur-Satpute/Mayur-Satpute/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
 
 ---
