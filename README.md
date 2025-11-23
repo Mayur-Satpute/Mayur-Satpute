@@ -9,13 +9,6 @@
 
 ---
 
-<!-- 🔥 Custom Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/52092016-85e6-43a9-bc59-08ecfcf97aca" width="90%" alt="Mayur Banner"/>
-</p>
-
----
-
 ## 🌟 About Me  
 
 I’m a **Python Full Stack Developer in the making**, specializing in  
