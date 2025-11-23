@@ -9,13 +9,6 @@
 
 ---
 
-<!-- 🔥 Custom Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/52092016-85e6-43a9-bc59-08ecfcf97aca" width="90%" alt="Mayur Satpute Banner"/>
-</p>
-
----
-
 ## 🌟 About Me  
 I’m a developer focused on **Python Full Stack**, **Generative AI**, and **SQL engineering**, building everything from AI-powered tools to efficient backend systems.  
 Always learning, always improving, always shipping 🚀.
