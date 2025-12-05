@@ -34,28 +34,90 @@
 
 ---
 
-## 📄 Resume
+## 🚀 About Me
 
-<div align="center">
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Download_My_Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-</div>
+👋 Hey there! I'm **Mayur Satpute**, an **Aspiring Python Full Stack Developer** passionate about building impactful applications powered by **AI, automation, and modern web technologies**.
+
+I'm deeply invested in learning full-stack architecture, scalable backend systems, and leveraging GenAI to create intelligent solutions that solve real-world problems.
 
 ---
 
-## 🧠 Skills
+🏆 **What Makes Me Unique**
+- 👨‍💻 Python Full Stack Developer in the making
+- 🤖 Generative AI & LLM explorer (Gemini & OpenAI)
+- 🗄 SQL & DBMS foundations with strong logic building
+- 🛠 Passionate about solving problems with automation
+- 📢 Community learning, sharing, collaborating mindset
+
+---
+
+💡 **What Drives Me**
+- 🚀 Innovation through simplicity
+- 🤖 AI-first development workflows
+- 🌍 Open-source collaboration
+- 📚 Learning one step a day
+- 🤝 Building with people, not just code
+
+---
+
+🎯 **My Philosophy**  
+> *“Consistency beats talent when talent is inconsistent — keep building, keep improving.”*  
+
+---
+
+✨ **What I'm Passionate About**
+- Creating AI-powered tools and web applications  
+- Backend systems & automation  
+- Writing clean, maintainable code  
+- Knowledge sharing & mentoring  
+- Building meaningful problem-solving software  
+
+---
+
+### 📚 Currently Learning & Exploring
+
+<table>
+<tr>
+<td width="50%">
+
+**🔥 Technical Skills**
+- Python, Django, Streamlit  
+- SQL | DBMS | System Design  
+- API Development & Authentication  
+- HTML, CSS, JavaScript  
+- OOP, Data Structures  
+
+</td>
+<td width="50%">
+
+**🎯 Current Activities**
+- Building AI-based tools & apps  
+- Strengthening backend engineering  
+- Documenting learnings  
+- Experimenting with GenAI & LLMs  
+- Enhancing UI/UX for apps  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Skills (Tech Stack)
 
 <div align="center">
 
-### 🧩 Languages & Backend  
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,django,fastapi" />
+### 🧩 Core Technologies  
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,streamlit"/>
+
+### 💾 Databases  
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
 
 ### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
 
-### 🧰 Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+### ⚙ Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
 
 </div>
 
@@ -67,8 +129,8 @@
   <img src="https://img.shields.io/badge/Google-Gemini-blue?style=for-the-badge&logo=google" />
   <img src="https://img.shields.io/badge/OpenAI-ChatGPT-00A67E?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/LangChain-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-Vector%20DB-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-Vector_DB-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-Web_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
 
 ---
@@ -83,7 +145,7 @@
 | **YouTube Transcript Summarizer** | Auto summary from URLs | Python, API |
 | **Fake News Headline Generator** | Fun random news generator | Python |
 
-➡ View all projects: **https://github.com/Mayur-Satpute?tab=repositories**
+➡ Explore More: **https://github.com/Mayur-Satpute?tab=repositories**
 
 ---
 
@@ -100,4 +162,4 @@
 
 ---
 
-<h3 align="center">⭐ If you like my work, give it a star — it motivates a lot!</h3>
+<h3 align="center">⭐ If this profile inspires you, feel free to star my repositories — it truly helps!</h3>
