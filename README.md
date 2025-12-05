@@ -1,73 +1,103 @@
-<!-- =========================
-🔥 PREMIUM GITHUB PROFILE README
-========================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mayur%20Satpute&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-<!-- ✨ Animated Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=3000&color=00FFE0&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Mayur+Satpute+👋;Aspiring+Python+Full+Stack+Developer;AI+%7C+SQL+%7C+Web+Development;Always+Learning%2C+Always+Building!">
-</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FAAFF&center=true&vCenter=true&random=false&width=600&lines=Python+Full+Stack+Developer+👨‍💻;AI+%26+GenAI+Explorer+🤖;Open+Source+Contributor+🌍;Building+Future+Tech+💡)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/Mayur-Satpute?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2&labelColor=1c1917)](https://github.com/Mayur-Satpute?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Mayur-Satpute?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=1c1917)](https://github.com/Mayur-Satpute)
+[![GitHub Repositories](https://img.shields.io/badge/dynamic/json?logo=github&label=Repositories&style=for-the-badge&logoColor=white&color=8b5cf6&labelColor=1c1917&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMayur-Satpute)](https://github.com/Mayur-Satpute?tab=repositories)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/mayur7pute" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+<a href="mailto:mayursatpute246@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+<a href="https://linktr.ee/CodeWithMayurr" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" height="50"/></a>
+
+<br/>
+
+*Let's connect and build something meaningful!* 🚀
+
+</div>
 
 ---
 
-## 🌟 About Me  
+## 📄 Resume
 
-I’m a **Python Full Stack Developer in the making**, specializing in  
-**Python, SQL, Django, Streamlit, and Generative AI (Gemini + OpenAI)**.  
-
-I love building AI-powered apps, database-driven systems, and modern web tools.  
-Quick learner, consistent builder, and always exploring the next big tech. 🚀
-
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgres,html,css,js,django,streamlit,vscode,git,github" />
-</p>
+<div align="center">
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Download_My_Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 🏆 GitHub Trophy Wall  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayur-Satpute&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
+## 🧠 Skills
+
+<div align="center">
+
+### 🧩 Languages & Backend  
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,django,fastapi" />
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+
+### 🧰 Tools & Technologies  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics  
+## 🤖 AI Tools & Frameworks
 
-### 🔥 Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-Satpute&show_icons=true&theme=react&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Satpute&layout=compact&theme=react&hide_border=true" height="180"/>
-</p>
-
-### 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mayur-Satpute&theme=react&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Google-Gemini-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/OpenAI-ChatGPT-00A67E?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/LangChain-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20DB-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</div>
 
 ---
 
 ## 🚀 Featured Projects  
-- 🎓 **Django Student Feedback System** — A Django web application with CRUD operations, authentication, and student feedback logic.
-- 🧠 **Chat with Multiple PDFs (Gemini + FAISS)** — A Streamlit web app to upload multiple PDFs and ask context-aware questions using Google Gemini, LangChain & FAISS.
-- 🍽 **Food Ordering & Billing System (Python – OOP)** — Console-based application with authentication, menu handling, and automated billing.  
-- 🛒 **Online Bookstore SQL DBMS** — A fully normalized SQL database system with advanced queries, joins, and reporting for a bookstore workflow.   
-- 📰 **Fake News Generator** — A fun, lightweight Python project generating random hilarious breaking-news headlines.  
-- 🔍 **YouTube Video Transcript Summarizer** — Python tool that fetches YouTube video transcripts and generates concise summaries.  
 
-> Explore even more on my GitHub: [https://github.com/Mayur-Satpute/Mayur-Satpute](https://github.com/Mayur-Satpute/Mayur-Satpute)
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Chat with Multiple PDFs** | Upload PDFs → Ask AI questions | Gemini, LangChain, FAISS, Streamlit |
+| **Student Feedback System** | CRUD, Auth, feedback workflow | Django, SQL |
+| **Food Ordering & Billing** | OOP CLI billing system | Python |
+| **YouTube Transcript Summarizer** | Auto summary from URLs | Python, API |
+| **Fake News Headline Generator** | Fun random news generator | Python |
 
----
-
-## 🌍 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayur7pute/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="mailto:mayursatpute246@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-  <a href="https://linktr.ee/CodeWithMayurr"><img src="https://skillicons.dev/icons?i=wordpress" height="50"/></a>
-</p>
+➡ View all projects: **https://github.com/Mayur-Satpute?tab=repositories**
 
 ---
 
-<h3 align="center">⭐ If you like my work, don't forget to star my repositories!</h3>
+<div align="center">
+
+## 📊 GitHub Statistics
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Satpute&layout=compact&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Mayur-Satpute&limit=5&theme=default&hide_border=true&combine_all_yearly_contributions=true"/>
+</div>
+
+---
+
+<h3 align="center">⭐ If you like my work, give it a star — it motivates a lot!</h3>
