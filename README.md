@@ -142,60 +142,77 @@ Follow my GitHub if you’re interested in:
 
 ---
 
-## 🚀 Pinned Projects (Core Work)
-
-| Project | Description | Tech Stack |
-|-------|-------------|-----------|
-| **[BlogScript-Django](https://github.com/Mayur-Satpute/BlogScript-Django)** | Blog application with authentication & CRUD | Django, Python, SQL |
-| **[django-student-feedback-system](https://github.com/Mayur-Satpute/django-student-feedback-system)** | Student feedback management system | Django, Python, SQL |
-| **[Chat-with-Multi-PDF-s-using-Gemini-AI](https://github.com/Mayur-Satpute/Chat-with-Multi-PDF-s-using-Gemini-AI)** | Chat with multiple PDFs using AI | Python, Streamlit, LangChain, Gemini |
-| **[Online-Bookstore-Management-System-SQL](https://github.com/Mayur-Satpute/Online-Bookstore-Management-System-SQL)** | Bookstore management using SQL | SQL |
-| **[Food-Ordering-and-Billing-System-](https://github.com/Mayur-Satpute/Food-Ordering-and-Billing-System-)** | OOP-based food ordering & billing | Python |
-| **[Youtube_Video_Transcript_summarizer](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer)** | YouTube transcript summarizer | Python, APIs |
-
----
-
----
-
-## 📊 GitHub Statistics (Pinned Projects Focus)
-
-### 🔥 Contribution Overview
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mayur-Satpute&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Satpute&hide_border=true" />
-</p>
-
----
-
 ### 🚀 Pinned Project Insights
 
+| Project | What It Demonstrates | Tech Stack |
+|------|---------------------|-----------|
+| **[BlogScript – Django Blog Platform](https://github.com/Mayur-Satpute/BlogScript-Django)** | Authentication, CRUD operations, clean Django backend structure | Django, Python, SQL |
+| **[Student Feedback Management System](https://github.com/Mayur-Satpute/django-student-feedback-system)** | Backend workflows, form handling, database design | Django, Python, SQL |
+| **[AI Chat with Multiple PDFs](https://github.com/Mayur-Satpute/Chat-with-Multi-PDF-s-using-Gemini-AI)** | Practical GenAI usage, document querying, LLM integration | Python, Streamlit, LangChain, Gemini |
+| **[Online Bookstore Management System (SQL)](https://github.com/Mayur-Satpute/Online-Bookstore-Management-System-SQL)** | SQL queries, schema design, relational database logic | SQL |
+| **[Food Ordering & Billing System](https://github.com/Mayur-Satpute/Food-Ordering-and-Billing-System-)** | Object-Oriented Programming, billing logic, CLI system design | Python |
+| **[YouTube Video Transcript Summarizer](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer)** | API integration, text processing, automation | Python, APIs |
+
+
+--- 
+
+## 🚀 What This Profile Represents
+
+This GitHub profile reflects my journey as a **Python Full Stack Developer** who believes in:
+
+- 🧩 Building **real-world, end-to-end projects**
+- ⚙️ Strong **backend engineering fundamentals**
+- 🗄 Clean database design with **SQL**
+- 🤖 Practical use of **AI & Generative AI**
+- 🔁 Continuous improvement through iteration
+- 📘 Writing readable code and clear documentation
+
+Each pinned repository is:
+- Carefully designed
+- Actively improved
+- Structured like a real production project
+- Built to demonstrate **problem-solving, not just syntax**
+
+---
+
+## 🧠 Engineering Mindset
+
+- I value **clarity over cleverness**
+- I prefer **maintainable code over shortcuts**
+- I focus on **learning deeply, not rushing**
+- I treat projects as **long-term assets**
+
+> *Good software is built twice — once in thought, once in code.*
+
+---
+
+## 📌 How to Explore My Work
+
+If you’re a **recruiter, mentor, or fellow developer**, I recommend starting with:
+
+1️⃣ **BlogScript-Django** → Django fundamentals, auth & CRUD  
+2️⃣ **Student Feedback System** → Structured backend workflows  
+3️⃣ **AI PDF Chat App** → Practical GenAI implementation  
+4️⃣ **SQL Bookstore System** → Database logic & queries  
+
+🔗 All repositories:  
+👉 https://github.com/Mayur-Satpute?tab=repositories
+
+---
+
+## 🤝 Let’s Build Together
+
+I’m always open to:
+- 💼 Internship & Junior Python Developer roles  
+- 🤝 Collaboration on Python, Django & AI projects  
+- 📚 Learning from experienced developers  
+- 🌍 Open-source contributions  
+
+📬 Feel free to connect or reach out — let’s create something meaningful.
+
+---
+
 <p align="center">
-  <a href="https://github.com/Mayur-Satpute/BlogScript-Django">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=BlogScript-Django&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/Mayur-Satpute/django-student-feedback-system">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=django-student-feedback-system&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mayur-Satpute/Chat-with-Multi-PDF-s-using-Gemini-AI">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Chat-with-Multi-PDF-s-using-Gemini-AI&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/Mayur-Satpute/Online-Bookstore-Management-System-SQL">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Online-Bookstore-Management-System-SQL&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mayur-Satpute/Food-Ordering-and-Billing-System-">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Food-Ordering-and-Billing-System-&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Youtube_Video_Transcript_summarizer&hide_border=true" />
-  </a>
+⭐ If you find my work valuable, consider starring a repository or following my GitHub.  
+Your support motivates me to keep building and improving 🚀
 </p>
