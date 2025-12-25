@@ -155,48 +155,47 @@ Follow my GitHub if you’re interested in:
 
 ---
 
+---
+
 ## 📊 GitHub Statistics (Pinned Projects Focus)
 
 ### 🔥 Contribution Overview
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mayur-Satpute&show_icons=true&hide_border=true&count_private=true" />
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mayur-Satpute&show_icons=true&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Satpute&hide_border=true" />
-</div>
+</p>
 
 ---
 
 ### 🚀 Pinned Project Insights
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Mayur-Satpute/BlogScript-Django">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=BlogScript-Django&hide_border=true" />
+  </a>
 
-<a href="https://github.com/Mayur-Satpute/BlogScript-Django">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=BlogScript-Django&hide_border=true" />
-</a>
+  <a href="https://github.com/Mayur-Satpute/django-student-feedback-system">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=django-student-feedback-system&hide_border=true" />
+  </a>
+</p>
 
-<a href="https://github.com/Mayur-Satpute/django-student-feedback-system">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=django-student-feedback-system&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/Mayur-Satpute/Chat-with-Multi-PDF-s-using-Gemini-AI">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Chat-with-Multi-PDF-s-using-Gemini-AI&hide_border=true" />
+  </a>
 
-<a href="https://github.com/Mayur-Satpute/Chat-with-Multi-PDF-s-using-Gemini-AI">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Chat-with-Multi-PDF-s-using-Gemini-AI&hide_border=true" />
-</a>
+  <a href="https://github.com/Mayur-Satpute/Online-Bookstore-Management-System-SQL">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Online-Bookstore-Management-System-SQL&hide_border=true" />
+  </a>
+</p>
 
-<a href="https://github.com/Mayur-Satpute/Online-Bookstore-Management-System-SQL">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Online-Bookstore-Management-System-SQL&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/Mayur-Satpute/Food-Ordering-and-Billing-System-">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Food-Ordering-and-Billing-System-&hide_border=true" />
+  </a>
 
-<a href="https://github.com/Mayur-Satpute/Food-Ordering-and-Billing-System-">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Food-Ordering-and-Billing-System-&hide_border=true" />
-</a>
-
-<a href="https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Youtube_Video_Transcript_summarizer&hide_border=true" />
-</a>
-
-</div>
-
----
-
-<h3 align="center">
-⭐ If you find my work useful, consider starring a repository or following — it motivates me to keep building and sharing 🚀
-</h3>
+  <a href="https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Youtube_Video_Transcript_summarizer&hide_border=true" />
+  </a>
+</p>
