@@ -4,12 +4,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FAAFF&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer+👨‍💻;Django+%26+REST+API+Engineer+⚙️;AI+%26+GenAI+Explorer+🤖;Open+Source+Contributor+🌍;Building+Scalable+Backend+Systems+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FAAFF&center=true&vCenter=true&width=680&lines=Python+Full+Stack+Developer+👨‍💻;Django+%26+REST+API+Engineer+⚙️;AI+%26+GenAI+Explorer+🤖;Open+Source+Contributor+🌍;Building+Scalable+Backend+Systems+🚀)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-<strong>Python Full Stack Developer | Django • REST APIs • SQL | AI & GenAI Projects | Open to Internship & Junior Roles</strong>
+<strong>
+Python Full Stack Developer | Django • REST APIs • SQL | AI & GenAI Projects | Open to Internship & Junior Roles
+</strong>
 </p>
 
 <div align="center">
@@ -25,9 +27,15 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/mayur7pute" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="mailto:mayursatpute246@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-<a href="https://linktr.ee/CodeWithMayurr" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" height="50"/></a>
+<a href="https://www.linkedin.com/in/mayur7pute" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+<a href="mailto:mayursatpute246@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+<a href="https://linktr.ee/CodeWithMayurr" target="_blank">
+  <img src="https://skillicons.dev/icons?i=wordpress" height="50"/>
+</a>
 </div>
 
 <p align="center"><em>Let’s connect and build meaningful software together 🚀</em></p>
@@ -36,22 +44,22 @@
 
 ## 🚀 About Me
 
-👋 Hi, I'm **Mayur Satpute**, a **Python Full Stack Developer** focused on building **scalable backend systems, REST APIs, and AI-powered applications**.
+👋 Hi, I'm **Mayur Satpute**, a **Python Full Stack Developer** with a strong focus on **backend development, REST APIs, databases, and AI-powered applications**.
 
-I work with **Python, Django, Django REST Framework, SQL, and modern frontend technologies**, while actively exploring **Generative AI, LLMs, and automation workflows** to solve real-world problems.
+I build projects using **Python, Django, Django REST Framework, SQL, and modern frontend technologies**, while actively exploring **Generative AI, LLMs, and automation workflows** to solve real-world problems.
 
-I strongly believe in **learning by building**, writing **clean and maintainable code**, and contributing to **open-source projects**.
+I believe in **learning by building**, writing **clean, maintainable code**, and continuously improving my projects through **consistent commits and documentation**.
 
 ---
 
 ## 🏆 What Makes Me Stand Out
 
-- 👨‍💻 Python Full Stack Developer (Backend-focused)
-- ⚙️ Django & REST API development
-- 🤖 Generative AI & LLM experimentation
+- 👨‍💻 Python Full Stack Developer (Backend-first mindset)
+- ⚙️ Django & REST API development experience
+- 🤖 AI & Generative AI project implementations
 - 🗄 Strong SQL & DBMS fundamentals
-- 🔁 Consistent learner with production mindset
-- 🌍 Open-source & collaboration driven
+- 🔁 Consistent contributor with real projects
+- 🌍 Open-source friendly & collaboration driven
 
 ---
 
@@ -59,12 +67,12 @@ I strongly believe in **learning by building**, writing **clean and maintainable
 
 Follow my GitHub if you’re interested in:
 - ✅ Real-world **Python & Django projects**
-- ✅ Clean, readable, beginner-friendly code
-- ✅ AI & GenAI experiments with practical use-cases
-- ✅ Consistent commits & project improvements
-- ✅ Well-documented repositories & READMEs
+- ✅ Practical **AI & GenAI applications**
+- ✅ Clean, readable, beginner-friendly codebases
+- ✅ Continuous improvements & regular commits
+- ✅ Well-documented repositories with clear READMEs
 
-⭐ I focus on **improving projects over time**, not just uploading and abandoning them.
+⭐ I focus on **building, refining, and scaling projects**, not just uploading code.
 
 ---
 
@@ -82,19 +90,19 @@ Follow my GitHub if you’re interested in:
 
 ### 🔥 Technical Focus
 - Python, Django, FastAPI, Streamlit  
-- REST APIs & Authentication  
-- SQL, DBMS, Backend Design  
+- REST API Development & Authentication  
+- SQL, DBMS & Backend Architecture  
 - OOP & Data Structures  
 
 </td>
 <td width="50%">
 
 ### 🚀 Current Activities
-- Building AI-powered applications  
-- Strengthening backend engineering  
-- Improving existing repositories  
+- Building AI-powered web applications  
+- Strengthening backend engineering skills  
+- Improving pinned GitHub repositories  
 - Exploring GenAI & LLM workflows  
-- Enhancing UI/UX for full-stack apps  
+- Enhancing UI/UX for full-stack projects  
 
 </td>
 </tr>
@@ -134,26 +142,28 @@ Follow my GitHub if you’re interested in:
 
 ---
 
-## 🚀 Featured Projects (Python • Django • AI)
+## 🚀 Pinned Projects (Real Projects)
 
 | Project | Description | Tech Stack |
-|------|------------|-----------|
-| **AI PDF Chat Application** | Chat with multiple PDFs using AI | Gemini, LangChain, FAISS, Streamlit |
-| **Django Student Feedback System** | Authentication, CRUD, feedback workflow | Django, SQL |
-| **Food Ordering & Billing System** | OOP-based CLI billing system | Python |
-| **YouTube Transcript Summarizer** | Auto summary from video URLs | Python, APIs |
-| **Fake News Headline Generator** | Random headline generator | Python |
+|-------|-------------|-----------|
+| **[BlogScript-Django](https://github.com/Mayur-Satpute/BlogScript-Django)** | Blog application with authentication & CRUD | Django, Python, SQL |
+| **[django-student-feedback-system](https://github.com/Mayur-Satpute/django-student-feedback-system)** | Student feedback management system | Django, Python, SQL |
+| **[Chat-with-Multi-PDF-s-using-Gemini-AI](https://github.com/Mayur-Satpute/Chat-with-Multi-PDF-s-using-Gemini-AI)** | AI app to chat with multiple PDFs | Python, Streamlit, LangChain, Gemini |
+| **[Online-Bookstore-Management-System-SQL](https://github.com/Mayur-Satpute/Online-Bookstore-Management-System-SQL)** | Bookstore management using SQL | SQL |
+| **[Food-Ordering-and-Billing-System-](https://github.com/Mayur-Satpute/Food-Ordering-and-Billing-System-)** | OOP-based food ordering & billing system | Python |
+| **[Youtube_Video_Transcript_summarizer](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer)** | YouTube transcript summarizer | Python, APIs |
 
-🔗 **Explore all repositories:** https://github.com/Mayur-Satpute?tab=repositories
+🔗 **Explore all repositories:**  
+👉 https://github.com/Mayur-Satpute?tab=repositories
 
 ---
 
 ## 🔁 Contribution Philosophy
 
-- 📆 Commit consistently (even small changes)
-- 🧹 Refactor & improve older projects
-- 📝 Treat documentation as a feature
-- 🧪 Experiment → test → iterate
+- 📆 Commit consistently — even small improvements matter
+- 🧹 Refactor and enhance existing projects
+- 📝 Treat documentation as a first-class feature
+- 🧪 Experiment → test → iterate → improve
 
 ---
 
@@ -167,5 +177,5 @@ Follow my GitHub if you’re interested in:
 ---
 
 <h3 align="center">
-⭐ If you find my work helpful, consider starring a repository or following — it motivates me to keep building and sharing 🚀
+⭐ If you find my work useful, consider starring a repository or following — it motivates me to keep building and sharing 🚀
 </h3>
