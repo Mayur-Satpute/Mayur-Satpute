@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FAAFF&center=true&vCenter=true&width=680&lines=Python+Full+Stack+Developer+👨‍💻;Django+%26+REST+API+Engineer+⚙️;AI+%26+GenAI+Explorer+🤖;Open+Source+Contributor+🌍;Building+Scalable+Backend+Systems+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FAAFF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer+👨‍💻;Django+%26+REST+API+Engineer+⚙️;AI+%26+GenAI+Explorer+🤖;Open+Source+Contributor+🌍;Building+Scalable+Backend+Systems+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,22 +44,22 @@ Python Full Stack Developer | Django • REST APIs • SQL | AI & GenAI Projects
 
 ## 🚀 About Me
 
-👋 Hi, I'm **Mayur Satpute**, a **Python Full Stack Developer** with a strong focus on **backend development, REST APIs, databases, and AI-powered applications**.
+👋 Hi, I'm **Mayur Satpute**, a **Python Full Stack Developer** focused on **backend development, REST APIs, databases, and AI-powered applications**.
 
-I build projects using **Python, Django, Django REST Framework, SQL, and modern frontend technologies**, while actively exploring **Generative AI, LLMs, and automation workflows** to solve real-world problems.
+I build real-world projects using **Python, Django, Django REST Framework, SQL, and modern frontend technologies**, while actively exploring **Generative AI, LLMs, and automation workflows**.
 
-I believe in **learning by building**, writing **clean, maintainable code**, and continuously improving my projects through **consistent commits and documentation**.
+I believe in **learning by building**, writing **clean, maintainable code**, and improving projects through **consistent commits and documentation**.
 
 ---
 
 ## 🏆 What Makes Me Stand Out
 
 - 👨‍💻 Python Full Stack Developer (Backend-first mindset)
-- ⚙️ Django & REST API development experience
-- 🤖 AI & Generative AI project implementations
+- ⚙️ Django & REST API development
+- 🤖 AI & Generative AI implementations
 - 🗄 Strong SQL & DBMS fundamentals
 - 🔁 Consistent contributor with real projects
-- 🌍 Open-source friendly & collaboration driven
+- 🌍 Open-source & collaboration driven
 
 ---
 
@@ -68,9 +68,9 @@ I believe in **learning by building**, writing **clean, maintainable code**, and
 Follow my GitHub if you’re interested in:
 - ✅ Real-world **Python & Django projects**
 - ✅ Practical **AI & GenAI applications**
-- ✅ Clean, readable, beginner-friendly codebases
+- ✅ Clean, readable, beginner-friendly code
 - ✅ Continuous improvements & regular commits
-- ✅ Well-documented repositories with clear READMEs
+- ✅ Well-documented repositories
 
 ⭐ I focus on **building, refining, and scaling projects**, not just uploading code.
 
@@ -98,11 +98,11 @@ Follow my GitHub if you’re interested in:
 <td width="50%">
 
 ### 🚀 Current Activities
-- Building AI-powered web applications  
-- Strengthening backend engineering skills  
+- Building AI-powered applications  
+- Strengthening backend engineering  
 - Improving pinned GitHub repositories  
 - Exploring GenAI & LLM workflows  
-- Enhancing UI/UX for full-stack projects  
+- Enhancing UI/UX for full-stack apps  
 
 </td>
 </tr>
@@ -142,36 +142,57 @@ Follow my GitHub if you’re interested in:
 
 ---
 
-## 🚀 Pinned Projects (Real Projects)
+## 🚀 Pinned Projects (Core Work)
 
 | Project | Description | Tech Stack |
 |-------|-------------|-----------|
 | **[BlogScript-Django](https://github.com/Mayur-Satpute/BlogScript-Django)** | Blog application with authentication & CRUD | Django, Python, SQL |
 | **[django-student-feedback-system](https://github.com/Mayur-Satpute/django-student-feedback-system)** | Student feedback management system | Django, Python, SQL |
-| **[Chat-with-Multi-PDF-s-using-Gemini-AI](https://github.com/Mayur-Satpute/Chat-with-Multi-PDF-s-using-Gemini-AI)** | AI app to chat with multiple PDFs | Python, Streamlit, LangChain, Gemini |
+| **[Chat-with-Multi-PDF-s-using-Gemini-AI](https://github.com/Mayur-Satpute/Chat-with-Multi-PDF-s-using-Gemini-AI)** | Chat with multiple PDFs using AI | Python, Streamlit, LangChain, Gemini |
 | **[Online-Bookstore-Management-System-SQL](https://github.com/Mayur-Satpute/Online-Bookstore-Management-System-SQL)** | Bookstore management using SQL | SQL |
-| **[Food-Ordering-and-Billing-System-](https://github.com/Mayur-Satpute/Food-Ordering-and-Billing-System-)** | OOP-based food ordering & billing system | Python |
+| **[Food-Ordering-and-Billing-System-](https://github.com/Mayur-Satpute/Food-Ordering-and-Billing-System-)** | OOP-based food ordering & billing | Python |
 | **[Youtube_Video_Transcript_summarizer](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer)** | YouTube transcript summarizer | Python, APIs |
 
-🔗 **Explore all repositories:**  
-👉 https://github.com/Mayur-Satpute?tab=repositories
+---
+
+## 📊 GitHub Statistics (Pinned Projects Focus)
+
+### 🔥 Contribution Overview
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mayur-Satpute&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Satpute&hide_border=true" />
+</div>
 
 ---
 
-## 🔁 Contribution Philosophy
-
-- 📆 Commit consistently — even small improvements matter
-- 🧹 Refactor and enhance existing projects
-- 📝 Treat documentation as a first-class feature
-- 🧪 Experiment → test → iterate → improve
-
----
-
-## 📊 GitHub Statistics
+### 🚀 Pinned Project Insights
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Satpute&layout=compact&hide_border=true" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Mayur-Satpute&limit=5&hide_border=true&combine_all_yearly_contributions=true"/>
+
+<a href="https://github.com/Mayur-Satpute/BlogScript-Django">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=BlogScript-Django&hide_border=true" />
+</a>
+
+<a href="https://github.com/Mayur-Satpute/django-student-feedback-system">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=django-student-feedback-system&hide_border=true" />
+</a>
+
+<a href="https://github.com/Mayur-Satpute/Chat-with-Multi-PDF-s-using-Gemini-AI">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Chat-with-Multi-PDF-s-using-Gemini-AI&hide_border=true" />
+</a>
+
+<a href="https://github.com/Mayur-Satpute/Online-Bookstore-Management-System-SQL">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Online-Bookstore-Management-System-SQL&hide_border=true" />
+</a>
+
+<a href="https://github.com/Mayur-Satpute/Food-Ordering-and-Billing-System-">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Food-Ordering-and-Billing-System-&hide_border=true" />
+</a>
+
+<a href="https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Satpute&repo=Youtube_Video_Transcript_summarizer&hide_border=true" />
+</a>
+
 </div>
 
 ---
