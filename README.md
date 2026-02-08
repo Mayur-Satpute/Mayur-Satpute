@@ -206,7 +206,7 @@ I’m always open to:
 - 💼 Internship & Junior Python Developer roles  
 - 🤝 Collaboration on Python, Django & AI projects  
 - 📚 Learning from experienced developers  
-- 🌍 Open-source contributions  
+- 🌍 Open-source contributions.
 
 📬 Feel free to connect or reach out — let’s create something meaningful.
 
