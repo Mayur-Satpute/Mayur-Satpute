@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FAAFF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer+👨‍💻;Django+%26+REST+API+Engineer+⚙️;AI+%26+GenAI+Explorer+🤖;Open+Source+Contributor+🌍;Building+Scalable+Backend+Systems+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FAAFF&center=true&vCenter=true&width=700&lines=Python+Django+Developer+👨‍💻;Django+%26+REST+API+Engineer+⚙️;AI+%26+GenAI+Explorer+🤖;Open+Source+Contributor+🌍;Building+Scalable+Backend+Systems+🚀)](https://git.io/typing-svg)
 
 </div>
 
